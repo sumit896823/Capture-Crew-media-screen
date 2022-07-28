@@ -1,0 +1,123 @@
+body{background-image: linear-gradient(to bottom,orange,white)}
+.css{display:flex;border:1px solid none;height: 150px;width: 1500px;background:rgba(128, 128, 128, 0.179);flex-direction: rows;}
+.cssa{border:1px solid none;height: 150px;width: 750px;background-color: rgba(128, 128, 128, 0.252);display: flex;align-items: center;}
+.cssa a{font-family: Brush Script MT;color:white;font-size: 43px;letter-spacing: 5;font-weight: 900;text-decoration: none;padding-left: 120px;}
+.cssb{border:1px solid none;height: 150px;width: 749px;background-color: rgba(128, 128, 128, 0.252);display: flex;align-items: center;justify-content:space-around;}
+.cssb1 a{border:1px solid white;height: 150px;width: 749px;background-color: rgba(128, 128, 128, 0.179);padding:20px 30px 20px 30px;color:rgb(253, 231, 191);font-family:Forte ;text-decoration: none;font-weight: 550;border-radius: 20px 20px 20px 20px ;letter-spacing: 1}
+.cssb1 a:hover{box-shadow: 0px 0px 5px 0.4px orange,inset 0px 0px 5px .9px white;background-color: orange;color: white;}
+.cssb2 a{height: 150px;width: 749px;color:rgb(253, 231, 191);font-family:Forte;text-decoration: none;font-weight: 550;letter-spacing: 1}
+.cssb2 a:hover{color:white}
+.cssb3 a{height: 150px;width: 749px;color:rgb(253, 231, 191);font-family:Forte;text-decoration: none;font-weight: 550;letter-spacing: 1}
+.cssb3 a:hover{color:white}
+.cssb4 a{height: 150px;width: 749px;color:rgb(253, 231, 191);font-family:Forte;letter-spacing: 1;text-decoration: none;font-weight: 550;}
+.cssb4 a:hover{color:white}
+.cssc{border:1px solid none;height: 250px;width: 1500px;margin-top: 4%;}
+.cssc1{border:1px solid none;height: 55px;width: 1500px;letter-spacing: 3;}
+.CSSC1 H1{border:1px solid none;color:white;font-family:Brush Script MT ;text-align: center;font-size: 45px}
+.cssc2{border:1px solid none;height: 40px;width: 1500px;}
+.CSSC2 H2{color:white;font-family:MV Boli;text-align: center;font-size: 24px}
+.cssc3{border:1px solid none;height: 30px;width: 1500px;}
+.CSSC3 H1{color:white;font-family:MV Boli;text-align: center;font-size: 18px;font-weight: 0%;}
+.cssd{border: 1px solid none;display:flex;flex-direction:rows;height: 90px;justify-content: center;align-items: center;width: 1500px;margin: 0 auto;}
+.cssd1 a{border: 1px solid white;padding: 12px 25px 12px 25px;text-decoration: none;border-radius: 50px 50px 50px 50px;font-family: Forte;color:white;font-weight: 550;font-size: 17px}
+.cssd2 a{padding: 12px 25px 12px 25px;margin-left: 30px;text-decoration: none;border-radius: 50px 50px 50px 50px;font-family: Forte;color:rgb(253, 231, 191);font-weight: 550;font-size: 17px}
+.cssd2 a:hover{border: 1px solid white;color:white}
+.cssd3 a{padding: 12px 25px 12px 25px;margin-left: 30px;text-decoration: none;border-radius: 50px 50px 50px 50px;font-family: Forte;color:rgb(253, 231, 191);font-weight: 550;font-size: 17px}
+.cssd3 a:hover{border: 1px solid white;color:white}
+.cssd4 a{padding: 12px 25px 12px 25px;margin-left: 30px;text-decoration: none;border-radius: 50px 50px 50px 50px;font-family: Forte;color:rgb(253, 231, 191);font-weight: 550;font-size: 17px}
+.cssd4 a:hover{border: 1px solid white;color:white}
+.csse{border:1px solid none;height: 1230px;width: 1500px;margin: 0 auto;display: flex;flex-direction: rows;flex-wrap:wrap;}
+.csse a{margin-left: .9%;text-decoration: none;}
+.csse1{border:1px solid none;height: 250px;width: 355px;}
+.csse1a{border:1px solid none;height: 250px;width: 360px;background:url('../img/by-magdalena-roeseler.jpg');background-size: 100% 100%;position: absolute;}
+.csse2{border: 1px solid none;width: 330px;height: 50px;bottom: -180;position: relative;margin-left: 4%;background-color: rgba(255, 166, 0, 0.631);display: none;color:white;font-size: 30px;font-family: Brush Script MT;letter-spacing: 2;text-align: center;padding-top: 2%;border-radius: 5px 5px 5px 5px;}
+.csse1:hover .csse2{display: block;}
+.csse1b{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/cigar.jpg');background-size: 100% 100%;position: absolute;}
+.csse1c{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/yoga.jpg');background-size: 100% 100%;position: absolute;}
+.csse1d{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/shoes.jpg');background-size: 100% 100%;position: absolute;}
+.csse1e{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/grimace.jpg');background-size: 100% 100%;position: absolute;}
+.csse1f{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/lemon.jpg');background-size: 100% 100%;position: absolute;}
+.csse1g{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/hunger.jpg');background-size: 100% 100%;position: absolute;}
+.csse1h{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/photographer-f.jpg');background-size: 100% 100%;position: absolute;}
+.csse1i{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/camera.jpg');background-size: 100% 100%;position: absolute;}
+.csse1j{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/frame.jpg');background-size: 100% 100%;position: absolute;}
+.csse1k{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/girl-indark.jpg');background-size: 100% 100%;position: absolute;}
+.csse1l{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/woman.jpg');background-size: 100% 100%;position: absolute;}
+.csse1m{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/photographer.jpg');background-size: 100% 100%;position: absolute;}
+.csse1n{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/nautre-view.jpg');background-size: 100% 100%;position: absolute;}
+.csse1o{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/way.jpg');background-size: 100% 100%;position: absolute;}
+.csse1p{border:1px solid none;height: 250px;width: 360px;background-image: url('../img/girl-with-camera.jpg');background-size: 100% 100%;position: absolute;}
+.cssf{border-top:2px solid rgba(255, 166, 0, 0.402);height: 300px;width: 1500px;margin-top: 5%;}
+.cssf1{border:1px solid none;height: 50px;width: 1500px;margin-top: 8%;color:orange;font-size: 30px;font-family: serif;text-align: center;}
+.cssf2{border:1px solid none;height: 50px;width: 1500px;color:orange;font-size: 17px;font-family: serif;text-align: center;}
+.cssf3{border:1px solid none;height: 50px;width: 1500px;text-align: center;}
+.cssf3 i{font-size: 33px;color:orange;margin-left: 1%;}
+.cssf3 i:hover{color:rgba(255, 166, 0, 0.402)}
+.csss{display: none;}
+
+
+
+
+
+@media screen and (max-width: 600px)
+{
+body{background-image: linear-gradient(to bottom,orange,white)}    
+.css{display:flex;border:1px solid none;height: 80px;width: 100%;background-color: rgba(128, 128, 128, 0.252);flex-direction: column;}
+.css:hover{height: 80px;}
+.csss{border: 1px solid none;height: 50px;width: 100%;margin-left: 20%;display:none;}
+.cssa{border:none;height: 80px;width: 100%;background-color: rgba(128, 128, 128, 0.252);;}
+.cssa a{font-family:Brush Script MT;color:white;width: 100%;font-size: 23px;text-decoration: none;margin-left: -30px;}
+.cssb{border:1px solid none;height: 150px;width: 100%;background-color:rgba(128, 128, 128, 0.252);display: none;}
+
+.cssb1 a{box-shadow: 0px 0px 5px 0.2px white;color:white;border:1px solid rgb(201, 200, 200);height: 2px;width: 0%;background-color: black;padding:20px 210px 40px 160px;font-family: serif;text-decoration: none;font-weight: 550;border-radius:30px 30px 30px 30px;display: flex;margin-top: 1%;display: none;}
+.cssb2 a{border:none;height: 9px;width: 25%;background-color: black;padding:20px 140px 33px 145px;color:rgb(201, 200, 200);font-family: serif;text-decoration: none;font-weight: 550;border-radius:30px 30px 30px 30px;display: flex;margin-top: 3%}
+.cssb2 a:hover{color:white;box-shadow: 0px 0px 5px 0.2px white;border:1px solid rgb(201, 200, 200);}
+.cssb3 a{border:none;height: 10px;width: 20%;background-color: black;padding:20px 150px 33px 145px;color:rgb(201, 200, 200);font-family: serif;text-decoration: none;font-weight: 550;border-radius:30px 30px 30px 30px;display: flex;margin-top: 3%;}
+.cssb3 a:hover{color:white;box-shadow: 0px 0px 5px 0.2px white;border:1px solid rgb(201, 200, 200);}
+.cssb4 a{border:none;height: 10px;width: 20%;background-color: black;padding:20px 150px 33px 151px;color:rgb(201, 200, 200);font-family: serif;text-decoration: none;font-weight: 550;border-radius:30px 30px 30px 30px;display: flex;margin-top: 3%;}
+.cssb4 a:hover{color:white;box-shadow: 0px 0px 5px 0.2px white;border:1px solid rgb(201, 200, 200);}
+.cssc{border:1px solid none;height: 135px;width: 100%;margin-top: 12%;}
+.cssc1{border:1px solid none;height: 30px;width: 100%;}
+.CSSC1 H1{color:white;font-family:Brush Script MT ;text-align: center;font-size: 23px}
+.cssc2{border:1px solid none;height: 30px;width: 100%;}
+.CSSC2 H2{color:white;font-family:MV Boli ;text-align: center;font-size: 13px;height: 70px;margin-top: 8%;}
+.cssc3{border:1px solid none;height: 30px;width: 100%;}
+.CSSC3 H1{color:white;font-family:MV Boli;text-align: center;font-size: 10px;height: 30PX;}
+.cssd{border: 1px solid none;display:flex;flex-direction:rows;height: 70px;justify-content: center;align-items: center;width: 70%;width: 100%;}
+.cssd1 a{border: 1px solid white;padding: 12px 20px 12px 20px;text-decoration: none;border-radius: 50px 50px 50px 50px;font-family: Forte;color:white;font-weight: 550;font-size: 12px;}
+.cssd2 a{padding: 9px 15px 9px 15px;margin-left:10px;text-decoration: none;border-radius: 50px 50px 50px 50px;font-family: Forte;color:rgb(253, 231, 191);font-weight: 550;font-size: 12px}
+.cssd2 a:hover{border: 1px solid white;color:white}
+.cssd3 a{padding: 9px 15px 9px 15px;text-decoration: none;border-radius: 50px 50px 50px 50px;font-family: Forte;color:rgb(253, 231, 191);font-weight: 550;font-size: 12px}
+.cssd3 a:hover{border: 1px solid white;color:white}
+.cssd4 a{padding: 9px 15px 9px 15px;text-decoration: none;border-radius: 50px 50px 50px 50px;font-family: Forte;color:rgb(253, 231, 191);font-weight: 550;font-size: 12px}
+.cssd4 a:hover{border: 1px solid white;color:white}
+.csse{border:1px solid none;height: 4300px;width: 100%;display: flex;flex-direction: column;flex-wrap:wrap;}
+.csse a{margin-top: 3%;text-decoration: none;}
+.csse1{border:1px solid none;height: 250px;width: 100%;margin-top:3%;}
+.csse1a{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/by-magdalena-roeseler.jpg');background-size: 100% 100%;position: absolute;}
+.csse2{border: 1px solid none;width: 90%;height: 30px;bottom: -200;position: relative;background-color:rgba(255, 166, 0, 0.631);display: none;color:white;font-size: 20px;font-family: Brush Script MT;letter-spacing: 2;text-align: center;padding-top: 2%;border-radius: 5px 5px 5px 5px;}
+.csse1:hover .csse2{display: block;}
+.csse1b{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/cigar.jpg');background-size: 100% 100%;position: absolute;}
+.csse1c{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/yoga.jpg');background-size: 100% 100%;position: absolute;}
+.csse1d{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/shoes.jpg');background-size: 100% 100%;position: absolute;}
+.csse1e{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/grimace.jpg');background-size: 100% 100%;position: absolute;}
+.csse1f{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/lemon.jpg');background-size: 100% 100%;position: absolute;}
+.csse1g{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/hunger.jpg');background-size: 100% 100%;position: absolute;}
+.csse1h{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/photographer-f.jpg');background-size: 100% 100%;position: absolute;}
+.csse1i{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/camera.jpg');background-size: 100% 100%;position: absolute;}
+.csse1j{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/frame.jpg');background-size: 100% 100%;position: absolute;}
+.csse1k{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/girl-indark.jpg');background-size: 100% 100%;position: absolute;}
+.csse1l{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/woman.jpg');background-size: 100% 100%;position: absolute;}
+.csse1m{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/photographer.jpg');background-size: 100% 100%;position: absolute;}
+.csse1n{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/nautre-view.jpg');background-size: 100% 100%;position: absolute;}
+.csse1o{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/way.jpg');background-size: 100% 100%;position: absolute;}
+.csse1p{border:1px solid none;height: 250px;width: 95%;background-image: url('../img/girl-with-camera.jpg');background-size: 100% 100%;position: absolute;}
+.cssf{border-top:2px solid rgba(255, 166, 0, 0.402);height: 300px;width: 100%;margin-top: 5%;}
+.cssf1{border:1px solid none;height: 50px;width: 100%;margin-top: 18%;color:orange;font-size: 30px;font-family: serif;text-align: center;}
+.cssf2{border:1px solid none;height: 50px;width: 100%;color:orange;font-size: 17px;font-family: serif;text-align: center;}
+.cssf3{border:1px solid none;height: 50px;width: 100%;text-align: center;}
+.cssf3 i{font-size: 26px;color:orange;margin-left: 4%;}
+.cssf3 i:hover{color:rgba(255, 166, 0, 0.402)}
+}
+
+
